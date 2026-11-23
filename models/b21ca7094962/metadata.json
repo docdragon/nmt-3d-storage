@@ -1,0 +1,134 @@
+{
+  "id": "b21ca7094962",
+  "name": "2",
+  "createdAt": 1795422820530,
+  "expiresAt": 1796027620530,
+  "totalParts": 5,
+  "layers": [
+    "Cửa lùa",
+    "Layer0"
+  ],
+  "parts": [
+    {
+      "id": "part_1",
+      "name": "Group",
+      "code": null,
+      "dim": [
+        175,
+        60,
+        50
+      ],
+      "material": "Nhôm",
+      "materialKey": "Nhôm",
+      "color": "#c4c4c4",
+      "layer": "Cửa lùa",
+      "center": [
+        3220,
+        8415,
+        1340
+      ],
+      "explodeVector": [
+        0.3519,
+        0.9245,
+        0.1463
+      ]
+    },
+    {
+      "id": "part_2",
+      "name": "Group",
+      "code": null,
+      "dim": [
+        2200,
+        860,
+        35
+      ],
+      "material": "Nhôm",
+      "materialKey": "Nhôm",
+      "color": "#c4c4c4",
+      "layer": "Layer0",
+      "center": [
+        3220,
+        7960,
+        1340
+      ],
+      "explodeVector": [
+        0.3695,
+        0.9164,
+        0.1537
+      ]
+    },
+    {
+      "id": "part_3",
+      "name": "Group",
+      "code": null,
+      "dim": [
+        1130,
+        760,
+        5
+      ],
+      "material": "[Color M00]1",
+      "materialKey": "[Color M00]1",
+      "color": "#ffffff",
+      "layer": "Layer0",
+      "center": [
+        3205,
+        7960,
+        1805
+      ],
+      "explodeVector": [
+        0.3643,
+        0.9079,
+        0.2073
+      ]
+    },
+    {
+      "id": "part_4",
+      "name": "Group",
+      "code": null,
+      "dim": [
+        1130,
+        760,
+        5
+      ],
+      "material": "[Color M00]1",
+      "materialKey": "[Color M00]1",
+      "color": "#ffffff",
+      "layer": "Layer0",
+      "center": [
+        3205,
+        7960,
+        730
+      ],
+      "explodeVector": [
+        0.3712,
+        0.925,
+        0.0815
+      ]
+    },
+    {
+      "id": "part_5",
+      "name": "Group",
+      "code": null,
+      "dim": [
+        175,
+        60,
+        50
+      ],
+      "material": "Nhôm",
+      "materialKey": "Nhôm",
+      "color": "#c4c4c4",
+      "layer": "Cửa lùa",
+      "center": [
+        3220,
+        7340,
+        2465
+      ],
+      "explodeVector": [
+        0.3834,
+        0.8739,
+        0.2989
+      ]
+    }
+  ],
+  "materials": {}
+}
